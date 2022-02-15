@@ -2,8 +2,52 @@
   "to-dos": [
     {
       "id": 1,
-      "user-name": "Adam",
       "task": "Create a to-dos",
+      "done": false
+    },
+    {
+      "id": 2,
+      "task": "Play fetch with dog",
+      "done": true
+    },
+    {
+      "id": 3,
+      "task": "Add favicon",
+      "done": true
+    },
+    {
+      "id": 4,
+      "task": "Tested everything",
+      "done": false
+    },
+    {
+      "id": 5,
+      "task": "Stay concentrated",
+      "done": false
+    },
+    {
+      "id": 6,
+      "task": "Play videogames",
+      "done": true
+    },
+    {
+      "id": 7,
+      "task": "Regret playing videogames",
+      "done": true
+    },
+    {
+      "id": 8,
+      "task": "Sleep a lot",
+      "done": false
+    },
+    {
+      "id": 9,
+      "task": "Regret not sleeping a lot",
+      "done": true
+    },
+    {
+      "id": 10,
+      "task": "Go to 'La llorería'",
       "done": false
     }
   ]
